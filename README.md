@@ -6,7 +6,7 @@
 
 1. PHP 8.1
 2. MYSQL 8.0.30
-3. Composer 2.2.4
+3. Composer 2.5.8
 
 ### Installation
 
