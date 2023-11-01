@@ -32,7 +32,13 @@
 ![image](https://github.com/yura-1990/logbot/assets/72699632/f1909ef0-1e39-4077-88a4-27a3619e215e)
 3. At the end you will get a message, in which there is info
 ![image](https://github.com/yura-1990/logbot/assets/72699632/63351035-614f-4bfb-80a4-ad1e8a930c68)
-4. Take the token and past the token to .env file of the project
+4. Take the token and past the token and chat_id to .env file of the project
+![image](https://github.com/yura-1990/logbot/assets/72699632/df9caaa7-0a76-445a-b85d-f81e026435b7)
+### How to get chat id 
+1. Type something in the bot and forward your message to a bot called `@FIND_MY_ID_BOT`, it gives you your chat id and copy the chat id past to .inv file
+![image](https://github.com/yura-1990/logbot/assets/72699632/e8e1afdb-5001-4a6d-a219-f2b7a6a8825a)
+
+
 
 
 
