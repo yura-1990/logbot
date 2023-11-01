@@ -25,5 +25,15 @@
 4. [Laravel Telescope](https://laravel.com/docs/telescope)
 5. [Debugbar for Laravel](https://github.com/barryvdh/laravel-debugbar)
 
-![image](https://github.com/yura-1990/logbot/assets/72699632/8dd32721-b8d6-4173-8bf3-bfd2efe19f7c)
+### how to make a bot to get the token
+1. Open tg and search `BotFathe`, it looks like the picture below
+![image](https://github.com/yura-1990/logbot/assets/72699632/e025087a-11b5-4a4e-8d1e-8bb5c810bf92)
+2. Give a name for your bot
+![image](https://github.com/yura-1990/logbot/assets/72699632/f1909ef0-1e39-4077-88a4-27a3619e215e)
+3. At the end you will get a message, in which there is info
+![image](https://github.com/yura-1990/logbot/assets/72699632/63351035-614f-4bfb-80a4-ad1e8a930c68)
+4. Take the token and past the token to .env file of the project
+
+
+
 
